@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">wish</string>
+    <string name="aryans">AryanS</string>
+    <string name="wish_your_loved_one">WISH YOUR LOVED ONE</string>
+    <string name="wish">wish</string>
+    <string name="name">Name</string>
+    <string name="enter_your_message">Enter your message</string>
+    <string-array name="fest">
+        <item>Holi</item>
+        <item>Diwali</item>
+        <item>rakshabandhan</item>
+        <item>Birthday</item>
+        <item>Anniverery</item>
+    </string-array>
+
+</resources>
