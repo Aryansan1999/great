@@ -8,9 +8,11 @@
     <string-array name="fest">
         <item>Holi</item>
         <item>Diwali</item>
-        <item>rakshabandhan</item>
+        <item>Rakshabandhan</item>
         <item>Birthday</item>
-        <item>Anniverery</item>
+        <item>Anniversary</item>
     </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>

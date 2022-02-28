@@ -5,11 +5,16 @@
       <map>
         <entry key="..\:/Users/KIIT/AndroidStudioProjects/wish/app/src/main/res/drawable/boundary.xml" value="0.19583333333333333" />
         <entry key="..\:/Users/KIIT/AndroidStudioProjects/wish/app/src/main/res/drawable/button.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/KIIT/AndroidStudioProjects/wish/app/src/main/res/layout/activity_anniversary.xml" value="0.165625" />
+        <entry key="..\:/Users/KIIT/AndroidStudioProjects/wish/app/src/main/res/layout/activity_birthday.xml" value="0.165625" />
+        <entry key="..\:/Users/KIIT/AndroidStudioProjects/wish/app/src/main/res/layout/activity_diwali.xml" value="0.1" />
         <entry key="..\:/Users/KIIT/AndroidStudioProjects/wish/app/src/main/res/layout/activity_input.xml" value="0.16666666666666666" />
-        <entry key="..\:/Users/KIIT/AndroidStudioProjects/wish/app/src/main/res/layout/activity_last.xml" value="0.1796875" />
+        <entry key="..\:/Users/KIIT/AndroidStudioProjects/wish/app/src/main/res/layout/activity_last.xml" value="0.1" />
         <entry key="..\:/Users/KIIT/AndroidStudioProjects/wish/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/Users/KIIT/AndroidStudioProjects/wish/app/src/main/res/layout/activity_rakshabandhan.xml" value="0.1796875" />
         <entry key="..\:/Users/KIIT/AndroidStudioProjects/wish/app/src/main/res/layout/activity_splash.xml" value="0.1796875" />
         <entry key="..\:/Users/KIIT/AndroidStudioProjects/wish/app/src/main/res/layout/button.xml" value="0.17753623188405798" />
+        <entry key="..\:/Users/KIIT/AndroidStudioProjects/wish/app/src/main/res/layout/fragment_bday.xml" value="0.1" />
       </map>
     </option>
   </component>

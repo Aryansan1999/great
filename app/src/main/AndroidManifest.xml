@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Wish">
         <activity
+            android:name=".Birthday"
+            android:exported="true" />
+        <activity
+            android:name=".Anniversary"
+            android:exported="true" />
+        <activity
+            android:name=".Rakshabandhan"
+            android:exported="true" />
+        <activity
+            android:name=".diwali"
+            android:exported="true" />
+        <activity
             android:name=".input"
             android:exported="true" />
         <activity
@@ -26,7 +38,7 @@
             android:exported="true" />
         <activity
             android:name=".MainActivity"
-            android:exported="true"></activity>
+            android:exported="true" />
     </application>
 
 </manifest>
